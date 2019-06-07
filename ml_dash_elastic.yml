@@ -1,0 +1,2 @@
+node.name: ${HOSTNAME}
+network.host: 0.0.0.0
